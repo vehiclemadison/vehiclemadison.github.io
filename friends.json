@@ -1,0 +1,50 @@
+[
+    {
+        "id": "50a48fa3-2c0f-4397-ac50-64da464f9954",
+        "isActive": false,
+        "name": "Madison Andrews",
+        "age": 21,
+        "company": "Vehicle Media",
+        "email": "madisongand@gmail.com",
+        "address": "120 Hooper St, Athens, GA 30602",
+        "about": "Travlr App Creator! You can catch me either lounging in my apartment or on the slopes in Colorado.",
+        "registered": "2020-12-14T20:04:15+00:00",
+        "tags": [
+            "Web Developer",
+            "Dog Lover",
+            "UX Developer",
+            "Travlr Creators"
+        ],
+        "friends": [
+            {
+                "id": "91b5be3d-9a19-4ac2-b2ce-89cc41884ed0",
+                "name": "Sydney Ross"
+            }
+        ]
+    },
+
+    {
+        "id": "91b5be3d-9a19-4ac2-b2ce-89cc41884ed0",
+        "isActive": false,
+        "name": "Sydney Ross",
+        "age": 22,
+        "company": "Plural",
+        "email": "syd.k.ross@gmail.com",
+        "address": "120 Hooper St, Athens, GA 30602",
+        "about": "Travlr App Creator! You can catch me hanging out at a music festival with me friends.",
+        "registered": "2020-12-14T20:08:19+00:00",
+        "tags": [
+            "Designer",
+            "Cat Lover",
+            "Marketing",
+            "Travlr Creators"
+        ],
+        "friends": [
+            {
+                "id": "50a48fa3-2c0f-4397-ac50-64da464f9954",
+                "name": "Madison Andrews"
+            }
+        ]
+    }
+
+]
